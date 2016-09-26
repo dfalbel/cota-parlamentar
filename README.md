@@ -7,6 +7,15 @@ Da [página de dados abertos](http://www2.camara.leg.br/transparencia/cota-para-
 
 O repositório ainda não é atualizado diariamente.
 
+## Leitura dos dados
+
+O arquivo `.csv` pode ser encontrado na pasta `data`. Clone o repositório
+e no `R` use:
+
+```
+dados <- readr::read_csv("data/cota-parlamentar-2016.csv")
+```
+
 ## Descrição dos dados
 
 <table class="tabela-2" style="text-align: left; float: left;"><tbody><tr><th>
