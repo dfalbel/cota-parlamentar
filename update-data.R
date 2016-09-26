@@ -18,3 +18,4 @@ if(request_data$status_code == 200){
   readr::write_csv(parsed, "data/cota-parlamentar-2016.csv")
   readr::write_rds(parsed, "data/cota-parlamentar-2016.rds", compress = "gz")
 }
+
