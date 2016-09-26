@@ -274,3 +274,5 @@ dados <- readr::read_csv("data/cota-parlamentar-2016.csv")
 <p style="text-align: left; "><span>Número que identifica um Parlamentar ou Liderança na Transparência da Cota para Exercício da Atividade Parlamentar</span><span>.</span></p>
 </td>
 </tr></tbody></table>
+
+[Fonte](http://www2.camara.leg.br/transparencia/cota-para-exercicio-da-atividade-parlamentar/explicacoes-sobre-o-formato-dos-arquivos-xml)
