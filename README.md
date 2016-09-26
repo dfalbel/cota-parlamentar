@@ -5,7 +5,7 @@ Da [página de dados abertos](http://www2.camara.leg.br/transparencia/cota-para-
 
 > Este serviço de Dados Abertos disponibiliza arquivos XML compactados para download contendo os dados relativos aos gastos parlamentares registrados na Câmara dos Deputados. O acesso é gratuito e não requer autorização de uso. A intenção do serviço é permitir que os dados possam ser importados por sistemas de gerenciamento de banco de dados (SGBD) externos à Câmara dos Deputados para serem manipulados de acordo com as necessidades dos diversos setores da sociedade. Os arquivos são atualizados diariamente.
 
-O repositório ainda não é atualizado diariamente.
+O repositório ainda não é atualizado diariamente. Confira a data do último `commit`.
 
 ## Leitura dos dados
 
