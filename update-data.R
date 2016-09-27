@@ -13,7 +13,7 @@ source("utils.R")
 
 # Download Dataset --------------------------------------------------------
 
-request_data <- GET("http://www.camara.gov.br/cotas/AnoAtual.zip", write_disk("data-raw/AnoAtual.zip"))
+request_data <- GET("http://www.camara.gov.br/cotas/AnoAtual.zip", write_disk("data-raw/AnoAtual.zip", overwrite = TRUE))
 
 
 if(request_data$status_code == 200){
