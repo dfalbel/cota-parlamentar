@@ -25,5 +25,6 @@ if(request_data$status_code == 200){
 }
 
 rm(list = ls())
+Sys.sleep(1000)
 
 system("./upload-github.sh")
